@@ -1,7 +1,7 @@
 let httpServer = require('http')
 let userObj = [
-    {'name':'lisixianhhhh888','id':8888},
-    {'name':'zhufeng6666hhhhh','id':8888}
+    {'name':'lisixianhhhh888','id':8888666},
+    {'name':'zhufeng6666hhhhh','id':8888666}
 ]
 let server =  httpServer.createServer(function(req,res){
     res.setHeader('Access-Contrl-Allow-Origin','*')
