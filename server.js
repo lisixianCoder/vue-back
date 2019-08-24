@@ -1,6 +1,6 @@
 let httpServer = require('http')
 let userObj = [
-    {'name':'lisixianhhhh888我真帅啊你也很帅啊','id':8888666},
+    {'name':'lisixianhhhh888我真帅啊你ssss也很帅啊','id':8888666},
     {'name':'zhufeng6666hhhhssssh你也很帅','id':8888666}
 ]
 let server =  httpServer.createServer(function(req,res){
